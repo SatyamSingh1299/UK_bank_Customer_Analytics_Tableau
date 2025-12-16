@@ -1,0 +1,7 @@
+1)Top 10 customer mataining high balance
+2)Gender ratio
+3)No of customer's in age range 30-35,40-45
+4)No of customer's in each region
+5)No of Customers in Each Job Classfication
+6)Pattern and trend of new customer joining
+7)The customer mataining balance in range 10000-20000
