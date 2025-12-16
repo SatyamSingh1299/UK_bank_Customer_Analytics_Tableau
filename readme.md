@@ -22,11 +22,11 @@ Analyze UK bank customer data to answer critical business questions:
 
 **View Interactive Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/satyam.singh7169/viz/UK_Bank_Customer_Analysis_16732999017210/Story1)
 
-<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/UK_bank_Customer_Analytics_Tableau/blob/main/img1.png" /></a></p>  
+<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/UK_bank_Customer_Analytics_Tableau/tree/main/imgs/img1.png" /></a></p>  
 
-<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/UK_bank_Customer_Analytics_Tableau/blob/main/img2.png" /></a></p>  
+<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/UK_bank_Customer_Analytics_Tableau/tree/main/imgs/img2.pmg" /></a></p>  
 
-<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/UK_bank_Customer_Analytics_Tableau/blob/main/img3.png" /></a></p> 
+<p  align="center"><img width="80%" src="https://github.com/SatyamSingh1299/UK_bank_Customer_Analytics_Tableau/tree/main/imgs/img3.png" /></a></p> 
 ---
 
 ## 📊 Dashboard Components
@@ -110,6 +110,7 @@ Analyze UK bank customer data to answer critical business questions:
 
 
 ---
+
 
 
 
